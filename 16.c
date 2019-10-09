@@ -1,5 +1,9 @@
 #include <stdio.h>
 int main()
+
+
+
+
 {
 int c[10], d[10], flag = 0, n1, n2, i, j;
 scanf(" %d ",&n1);
@@ -27,4 +31,8 @@ printf(" %d ", b[i]);
 flag = 0;
 }
 return 0;
+
+
 }
+
+
