@@ -3,6 +3,10 @@
  
 void reverse(char*, int, int);
 int main()
+
+
+
+
 {
    char p[100];
  
@@ -29,4 +33,11 @@ int main()
    *(y+end)   = c;
  }
    reverse(y, ++begin, --end);
-}
+
+   
+   
+   
+   }
+
+
+
